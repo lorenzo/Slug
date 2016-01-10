@@ -29,8 +29,10 @@
         "issues": "https://github.com/usemuffin/slug/issues",
         "source": "https://github.com/usemuffin/slug"
     },
+    "require": {
+        "cakephp/cakephp": "~3.1"
+    },
     "require-dev": {
-        "cakephp/cakephp": "~3.0",
         "phpunit/phpunit": "4.1.*",
         "cocur/slugify": "^1.2"
     },
